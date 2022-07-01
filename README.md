@@ -4,10 +4,8 @@ ThinkfulCupid is an online dating and matchmaking website that allows people to 
 
 This project focuses on HTML and CSS to design a dating website that is functional for both mobile and desktop websites.
 
-Mobile view:
 
 ![ThinkfulCupid-mobile](https://user-images.githubusercontent.com/98443655/176832941-508a7068-c381-47c0-8099-45f547114f22.png)
 
-Desktop View: 
+ 
 
-![Uploading ThinkfulCupid-desktop (3).png…]()
